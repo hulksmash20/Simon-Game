@@ -1,6 +1,7 @@
 # Simon Game
 
-Simon Game is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison. 
+Simon Game is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison.
+
 This game first shows a pattern in which the coloured boxes are selected and then the user has to select those boxes in exactly same pattern. At each stage the length of the pattern is increased by 1. This goes on until the user gets the pattern wrong and hence the game is over.
 
 This game tests the memory of the users as they have to remember the whole pattern from the starting till that level.
