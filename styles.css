@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: #011f3f;
+}
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+h1 {
+  font-size: 4.5rem;
+  margin: 5%;
+  color: #fef2bf;
+}
+.btn {
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+  border: 10px solid black;
+  border-radius: 25%;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
